@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: "Lucida Grande";
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  width: 100%;
+  padding: 0 0;
+  margin: 0 auto;
+  text-align: center;
+  color: white;
+}
+
+.top-wrapper {
+  padding: 5px 0 75px 0;
+  background: url(57bb66cb4895565d755910654a6b0c80.jpg) fixed ;
+  background-size: cover;
+  width: 100%;
+
+}
+
+
+
+
+
+
+.paragraf  {
+
+  margin-top: 180px;
+  color: White;
+  font-size: 20px;
+
+}
+
+.paragraf p {
+  opacity: 0.8;
+
+}
+
+.p2 {
+  margin-bottom:30px;
+
+}
+
+
+.button {
+  opacity: 0.7;
+  color: white;
+  background-color: #ff6c40;
+  padding: 6px 20px 6px 20px;
+  border-radius: 10px;
+}
+
+.button:hover {
+  color: white;
+  opacity: 1;
+  transitioon: 0.75s;
+}
+
+.lesson-wrapper {
+  height: 500px;
+}
